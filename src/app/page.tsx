@@ -5,7 +5,7 @@ import Orb from "@/components/Orb/Orb";
 
 export default function Home() {
   return (
-    <div className="min-h-screen max-w-[575px] mx-auto h-screen flex flex-col items-center justify- pb-10">
+    <div className="min-h-screen max-w-[575px] mx-auto h-screen flex flex-col items-center ">
       <h1>hypnosisflow labs</h1>
       <div className="w-full max-w-[575px] relative h-full flex items-center flex-col">
         {/* <div className="flex-1 flex flex-col items-center justify-center min-h-[500px] gap-8">
@@ -15,7 +15,7 @@ export default function Home() {
         <div className="absolute  max-w-[575px]">
           <Orb />
         </div>
-        <div className="flex-1 flex mt-[220px] min-h-[500px] w-full">
+        <div className="flex-1 flex mt-[100px] min-h-[500px] h-full w-full">
           <Chatbot />
         </div>
       </div>

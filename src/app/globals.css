@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #0a0a0a;
+  --background: #0b0b0b;
   --foreground: #ededed;
   --font-main: "Space Mono", monospace;
 }
